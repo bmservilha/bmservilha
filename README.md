@@ -3,8 +3,9 @@
 
 ## Resumo Profissional 🏢
 
-Profissional com sólida formação acadêmica.  Em 2019, realizei minha transição de carreira para o meio corporativo na área de Dados e Analytics. Tive passagens nas áreas de CRM e BI. 
-Atualmente trabalho no Banco Bradesco, realizando a implementação, monitoramento e sustentação  de modelos preditivos e decisórios  para prevenção a crimes financeiros (fraudes e lavagem de dinheiro)
+Profissional com sólida formação acadêmica atuando desde 2019, no meio corporativo, com análise de dados e modelagem estatística. 
+
+Atualmente trabalho no Banco Bradesco, realizando a implementação, monitoramento e sustentação  de modelos preditivos e decisórios voltados para prevenção a crimes no ambiente bancário (fraudes e lavagem de dinheiro)
 
 
 Skills: Python / SQL / SAS / Análise de Dados / Machine Learning / Visualização de Dados
