@@ -3,9 +3,9 @@
 
 ## Professional Background 🏢
 
-Experienced Data Analytics professional with a solid academic background in STEM (Computational/Theoretical Chemistry
+Experienced Data Analytics professional with a solid academic background in STEM (Computational/Theoretical Chemistry)
 
-Currently working @ Banco Bradesco as a ML Engineer focused on deploying, monitoring and support of machine-learning-based data products targeted on  risk mitigation (fraud prevention, anti-money laundering and cyber security concerns)
+Currently working @ Banco Bradesco as a ML Engineer focused on deploying, monitoring and support of machine-learning-based data products targeted on financial crime  risk mitigation  (fraud prevention, anti-money laundering, cybersecurity)
 
 Skills: Python / SQL Server / SAS / Data Analysis / Machine Learning / Data Viz
   
