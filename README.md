@@ -5,7 +5,7 @@
 
 Experienced Data Analytics professional with a solid academic background in STEM (Computational/Theoretical Chemistry)
 
-Currently working @ Banco Bradesco as a ML Engineer focused on deploying, monitoring and support of machine-learning-based data products targeted on fincrime risk mitigation (fraud prevention, anti-money laundering, cybersecurity)
+Currently working @ Banco Bradesco as a ML Engineer focused on deploying, monitoring and maintenance of a broad range of  machine-learning-based data products targeted on fincrime risk mitigation (fraud prevention, anti-money laundering, cybersecurity)
 
 Skills: Python / SQL Server / SAS / Data Analysis / Machine Learning / Data Viz
   
